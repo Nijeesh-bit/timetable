@@ -121,3 +121,4 @@ Execute the program
 </html>
 ```
 # OUPUT
+![timetable](https://github.com/Nijeesh-bit/timetable/assets/89188014/f67e7756-8231-4c62-9ff4-f591f1ee16b7)
